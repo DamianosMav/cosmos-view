@@ -14,20 +14,22 @@ I’m fascinated by space and love how NASA shares incredible images every day. 
 ## 🛠 Local Setup
 1. **Clone** this repo and enter it:
   ```
-  bash
   git clone https://github.com/yourusername/apod-viewer.git
   cd apod-viewer
   ```
 
 2. **Install dependencies**
  ```
- bash
  npm install
  ```
 
 3. **Create a .env file in the root folder with your NASA API key**
+
+```
 VITE_API_KEY=your_nasa_api_key_here
 VITE_API_URL=https://api.nasa.gov/planetary/apod
+```
+
 (You can get one for free at the https://api.nasa.gov/)
 
 
@@ -51,5 +53,7 @@ npm run dev
 ![Example image](./assets/Preview.PNG)
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
 Built by Damianos Mav Feel free to ⭐ the repo if you find it useful.
 
