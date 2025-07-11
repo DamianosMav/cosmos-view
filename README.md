@@ -14,7 +14,7 @@ I’m fascinated by space and love how NASA shares incredible images every day. 
 ## 🛠 Local Setup
 1. **Clone** this repo and enter it:
   ```
-  git clone https://github.com/yourusername/apod-viewer.git
+  git clone https://github.com/DamianosMav/apod-viewer.git
   cd apod-viewer
   ```
 
